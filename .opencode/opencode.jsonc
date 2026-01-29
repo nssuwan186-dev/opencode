@@ -1,22 +1,14 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  // "plugin": ["opencode-openai-codex-auth"],
-  // "enterprise": {
-  //   "url": "https://enterprise.dev.opencode.ai",
-  // },
   "provider": {
-    "opencode": {
-      "options": {},
-    },
+    "openrouter": {},
+    "google": {},
+    "groq": {}
   },
-  "mcp": {
-    "context7": {
-      "type": "remote",
-      "url": "https://mcp.context7.com/mcp",
-    },
-  },
+  "model": "openrouter/anthropic/claude-3.7-sonnet",
+  "small_model": "google/gemini-2.0-flash",
   "tools": {
-    "github-triage": false,
-    "github-pr-search": false,
-  },
+    "github-triage": true,
+    "github-pr-search": true
+  }
 }
