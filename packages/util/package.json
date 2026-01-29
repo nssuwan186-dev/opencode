@@ -11,10 +11,10 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "zod": "catalog:"
+    "zod": "5.8.2"
   },
   "devDependencies": {
-    "typescript": "catalog:",
-    "@types/bun": "catalog:"
+    "typescript": "5.8.2",
+    "@types/bun": "5.8.2"
   }
 }

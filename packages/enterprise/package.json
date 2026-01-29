@@ -16,26 +16,26 @@
     "@opencode-ai/util": "workspace:*",
     "@opencode-ai/ui": "workspace:*",
     "aws4fetch": "^1.0.20",
-    "@pierre/diffs": "catalog:",
-    "@solidjs/router": "catalog:",
-    "@solidjs/start": "catalog:",
-    "@solidjs/meta": "catalog:",
-    "hono": "catalog:",
-    "hono-openapi": "catalog:",
+    "@pierre/diffs": "5.8.2",
+    "@solidjs/router": "5.8.2",
+    "@solidjs/start": "5.8.2",
+    "@solidjs/meta": "5.8.2",
+    "hono": "5.8.2",
+    "hono-openapi": "5.8.2",
     "js-base64": "3.7.7",
-    "luxon": "catalog:",
+    "luxon": "5.8.2",
     "nitro": "3.0.1-alpha.1",
-    "solid-js": "catalog:",
-    "zod": "catalog:"
+    "solid-js": "5.8.2",
+    "zod": "5.8.2"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "catalog:",
-    "@tailwindcss/vite": "catalog:",
-    "@typescript/native-preview": "catalog:",
-    "@types/luxon": "catalog:",
-    "tailwindcss": "catalog:",
-    "typescript": "catalog:",
-    "vite": "catalog:"
+    "@cloudflare/workers-types": "5.8.2",
+    "@tailwindcss/vite": "5.8.2",
+    "@typescript/native-preview": "5.8.2",
+    "@types/luxon": "5.8.2",
+    "tailwindcss": "5.8.2",
+    "typescript": "5.8.2",
+    "vite": "5.8.2"
   },
   "engines": {
     "node": ">=22"

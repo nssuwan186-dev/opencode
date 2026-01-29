@@ -9,23 +9,23 @@
     "typecheck": "tsgo --noEmit"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "catalog:",
+    "@cloudflare/workers-types": "5.8.2",
     "@tsconfig/node22": "22.0.2",
-    "@types/node": "catalog:",
+    "@types/node": "5.8.2",
     "openai": "5.11.0",
-    "typescript": "catalog:",
-    "@typescript/native-preview": "catalog:"
+    "typescript": "5.8.2",
+    "@typescript/native-preview": "5.8.2"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "2.0.0",
     "@ai-sdk/openai": "2.0.2",
     "@ai-sdk/openai-compatible": "1.0.1",
-    "@hono/zod-validator": "catalog:",
+    "@hono/zod-validator": "5.8.2",
     "@opencode-ai/console-core": "workspace:*",
     "@opencode-ai/console-resource": "workspace:*",
     "@openauthjs/openauth": "0.0.0-20250322224806",
-    "ai": "catalog:",
-    "hono": "catalog:",
-    "zod": "catalog:"
+    "ai": "5.8.2",
+    "hono": "5.8.2",
+    "zod": "5.8.2"
   }
 }
