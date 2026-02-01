@@ -13,8 +13,8 @@
     "shell-prod": "sst shell --target Teams --stage production"
   },
   "dependencies": {
-    "@opencode-ai/util": "workspace:*",
-    "@opencode-ai/ui": "workspace:*",
+    "@opencode-ai/util": "*",
+    "@opencode-ai/ui": "*",
     "aws4fetch": "^1.0.20",
     "@pierre/diffs": "5.8.2",
     "@solidjs/router": "5.8.2",

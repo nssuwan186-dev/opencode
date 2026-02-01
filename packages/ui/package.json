@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "@kobalte/core": "5.8.2",
-    "@opencode-ai/sdk": "workspace:*",
-    "@opencode-ai/util": "workspace:*",
+    "@opencode-ai/sdk": "*",
+    "@opencode-ai/util": "*",
     "@pierre/diffs": "5.8.2",
     "@shikijs/transformers": "3.9.2",
     "@solid-primitives/bounds": "0.1.3",

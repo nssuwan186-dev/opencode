@@ -36,9 +36,9 @@
   },
   "dependencies": {
     "@kobalte/core": "5.8.2",
-    "@opencode-ai/sdk": "workspace:*",
-    "@opencode-ai/ui": "workspace:*",
-    "@opencode-ai/util": "workspace:*",
+    "@opencode-ai/sdk": "*",
+    "@opencode-ai/ui": "*",
+    "@opencode-ai/util": "*",
     "@shikijs/transformers": "3.9.2",
     "@solid-primitives/active-element": "2.1.3",
     "@solid-primitives/audio": "1.4.2",
