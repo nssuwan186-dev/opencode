@@ -35,7 +35,7 @@
     "@types/luxon": "5.8.2",
     "tailwindcss": "5.8.2",
     "typescript": "5.8.2",
-    "vite": "5.8.2"
+    "vite": "6.4.2"
   },
   "engines": {
     "node": ">=22"
