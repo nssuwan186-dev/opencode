@@ -24,7 +24,7 @@
     "hono-openapi": "5.8.2",
     "js-base64": "3.7.7",
     "luxon": "5.8.2",
-    "nitro": "3.0.1-alpha.1",
+    "nitro": "3.0.1-alpha.2",
     "solid-js": "5.8.2",
     "zod": "5.8.2"
   },
@@ -35,7 +35,7 @@
     "@types/luxon": "5.8.2",
     "tailwindcss": "5.8.2",
     "typescript": "5.8.2",
-    "vite": "5.8.2"
+    "vite": "6.4.2"
   },
   "engines": {
     "node": ">=22"
