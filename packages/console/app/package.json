@@ -27,18 +27,18 @@
     "@solidjs/start": "5.8.2",
     "@stripe/stripe-js": "8.6.1",
     "chart.js": "4.5.1",
-    "nitro": "3.0.1-alpha.1",
+    "nitro": "3.0.1-alpha.2",
     "solid-js": "5.8.2",
     "solid-list": "0.3.0",
     "solid-stripe": "0.8.1",
-    "vite": "5.8.2",
+    "vite": "6.4.3",
     "zod": "5.8.2"
   },
   "devDependencies": {
     "@typescript/native-preview": "5.8.2",
     "@webgpu/types": "0.1.54",
     "typescript": "5.8.2",
-    "wrangler": "4.50.0"
+    "wrangler": "4.59.1"
   },
   "engines": {
     "node": ">=22"

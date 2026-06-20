@@ -30,7 +30,7 @@
     "@types/node": "5.8.2",
     "@typescript/native-preview": "5.8.2",
     "typescript": "5.8.2",
-    "vite": "5.8.2",
+    "vite": "6.4.3",
     "vite-plugin-icons-spritesheet": "3.0.1",
     "vite-plugin-solid": "5.8.2"
   },
